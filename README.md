@@ -1,16 +1,29 @@
-## Hi there 👋
+## Hi, I'm Hannah 
 
-<!--
-**hzeilstra22/hzeilstra22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Science student at Lipscomb University
 
-Here are some ideas to get you started:
+Passionate about sports analytics, interested in turning data into actionable insights for players, coaches, teams and organizations
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About Me
+I'm a Data Science student with experience building machine learning models, sports analytics tools, and data visualizations using real-world datasets.
+
+My interests include:
+- Sports Analytics
+- Machine Learning
+- Predictive Modeling
+- Data Visualization
+- Basketball Analytics
+- Baseball Analytics
+
+### Technical Skills
+
+**Languages:** Python, R, SQL, HTML
+
+**Libraries:** Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn
+
+**Tools:** Tableau, Git, GitHub, Jupyter Notebook, VS Code, BigQuery
+
+## Connect with me!
+LinkedIn: https://www.linkedin.com/in/hannah-zeilstra-475a46311/
